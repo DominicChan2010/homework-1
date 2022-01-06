@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:wght@200&family=Ubuntu:ital,wght@1,300&display=swap');
+
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+	font-family: "Inconsolata", monospace;
+}
+
+h3.subtitle {
+  color: #66ccff;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p.caption {
+  color: #bababa;
+  font-size: 10;
+  font-style: italic;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+}
