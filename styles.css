@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:wght@200&family=Ubuntu:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:wght@200&family=Source+Sans+Pro:ital,wght@1,300&family=Ubuntu:ital,wght@1,300&display=swap');
 
 body{
   padding: 25px;
@@ -10,7 +10,7 @@ body{
 
 h3.subtitle {
   color: #66ccff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', "Source Sans Pro", sans-serif;
 }
 
 p.caption {
